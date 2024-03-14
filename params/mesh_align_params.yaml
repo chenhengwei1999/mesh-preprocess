@@ -1,0 +1,169 @@
+# Done!
+VEHICLE_1:
+  subfolder: ""
+  name: "sport_car"
+  # whether needs to be rotated
+  rotate_angle: 180.0
+  # whether needs to be scaled
+  scale: true
+  scale_factor: 0.1
+
+# Done!
+VEHICLE_2:
+  subfolder: ""
+  name: "sport_car_3"
+  # whether needs to be rotated
+  rotate_angle: false
+  # whether needs to be scaled
+  scale: true
+  scale_factor: 0.1
+
+# File too large
+VEHICLE_3:
+  subfolder: "25-ford-mustang"
+  name: "mustang"
+  # whether needs to be rotated
+  rotate_angle: false
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 0.1
+
+# Axis Bug
+VEHICLE_4:
+  subfolder: "28-blender-cycles"
+  name: "28"
+  # whether needs to be rotated
+  rotate_angle: false
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 0.1
+
+# Done!
+VEHICLE_5:
+  subfolder: "31"
+  name: "PG2.79"
+  # whether needs to be rotated
+  rotate_angle: false
+  # whether needs to be scaled
+  scale: true
+  scale_factor: 3.5
+
+# File too large
+VEHICLE_6:
+  subfolder: "32-mercedes-benz-gls-580-2020"
+  name: "32"
+  # whether needs to be rotated
+  rotate_angle: false
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 3.5
+
+# Done!
+VEHICLE_7:
+  subfolder: "34-202011051208cycles"
+  name: "34"
+  # whether needs to be rotated, [x-angel, y-angel, z-angel]
+  rotate_angle: [-90.0, -90.0, 0.0]
+  # whether needs to be scaled
+  scale: true
+  scale_factor: 1
+
+# Done!
+VEHICLE_8:
+  subfolder: "43-202009122216-2"
+  name: "43"
+  # whether needs to be rotated
+  rotate_angle: [-90.0, -90.0, 0.0]
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 50
+
+# Done!
+VEHICLE_9:
+  subfolder: "55z27frcahz4-P911GT"
+  name: "Porsche_911_GT2"
+  # whether needs to be rotated
+  rotate_angle: [0.0, 180.0, 0.0]
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 50
+
+# Done!
+VEHICLE_10:
+  subfolder: "82-koenigsegg-agera"
+  name: "uploads_files_2792345_Koenigsegg"
+  # whether needs to be rotated
+  rotate_angle: false
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 50
+
+# Done!
+VEHICLE_11:
+  subfolder: "85zhcfu6puv4-Humvee_models"
+  name: "Humvee"
+  # whether needs to be rotated
+  rotate_angle: false
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 50
+
+# Axis Bug
+VEHICLE_12:
+  subfolder: "89-challenger"
+  name: "89"
+  # whether needs to be rotated
+  rotate_angle: [-90.0, 90.0, 0.0]
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 50
+
+# Done!
+VEHICLE_13:
+  subfolder: "Audi-R8"
+  name: "audir8"
+  # whether needs to be rotated
+  rotate_angle: [-90.0, 0.0, 0.0]
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 50
+
+# Done!
+VEHICLE_14:
+  subfolder: "AudiR8V10Plus3D"
+  name: "AudiR8V10Plus"
+  # whether needs to be rotated
+  rotate_angle: false
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 50
+
+# Visual Bug (But the model has been aligned)
+VEHICLE_15:
+  subfolder: "Bugatti Chiron"
+  name: "model"
+  # whether needs to be rotated
+  rotate_angle: false
+  # whether needs to be scaled
+  scale: true
+  scale_factor: 0.5
+
+# Done!
+VEHICLE_16:
+  subfolder: "ls87fl8ake0w-audi-r8"
+  name: "audi_r8"
+  # whether needs to be rotated
+  rotate_angle: [-90.0, 90.0, 0.0]
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 50
+
+# Axis Bug
+VEHICLE_17:
+  subfolder: "porsche-Cayma-s"
+  name: "porsche_cayman"
+  # whether needs to be rotated
+  rotate_angle: [-90.0, 45.0, 0.0]
+  # whether needs to be scaled
+  scale: false
+  scale_factor: 50
