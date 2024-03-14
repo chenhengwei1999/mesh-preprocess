@@ -2,7 +2,7 @@
 VEHICLE_1:
   subfolder: ""
   name: "sport_car"
-  # whether needs to be rotated
+  # whether needs to be rotated, one int stands for the angle of y-axis
   rotate_angle: 180.0
   # whether needs to be scaled
   scale: true
