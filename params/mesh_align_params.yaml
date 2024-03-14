@@ -6,7 +6,7 @@ VEHICLE_1:
   rotate_angle: 180.0
   # whether needs to be scaled
   scale: true
-  scale_factor: 0.1
+  scale_factor: 0.08
 
 # Done!
 VEHICLE_2:
@@ -28,15 +28,15 @@ VEHICLE_3:
   scale: false
   scale_factor: 0.1
 
-# Axis Bug
+# Done!
 VEHICLE_4:
   subfolder: "28-blender-cycles"
   name: "28"
   # whether needs to be rotated
-  rotate_angle: false
+  rotate_angle: [-90.0, -90.0, 0.0]
   # whether needs to be scaled
-  scale: false
-  scale_factor: 0.1
+  scale: true
+  scale_factor: 10
 
 # Done!
 VEHICLE_5:
@@ -46,7 +46,7 @@ VEHICLE_5:
   rotate_angle: false
   # whether needs to be scaled
   scale: true
-  scale_factor: 3.5
+  scale_factor: 3
 
 # File too large
 VEHICLE_6:
@@ -66,7 +66,7 @@ VEHICLE_7:
   rotate_angle: [-90.0, -90.0, 0.0]
   # whether needs to be scaled
   scale: true
-  scale_factor: 1
+  scale_factor: 13
 
 # Done!
 VEHICLE_8:
@@ -75,8 +75,8 @@ VEHICLE_8:
   # whether needs to be rotated
   rotate_angle: [-90.0, -90.0, 0.0]
   # whether needs to be scaled
-  scale: false
-  scale_factor: 50
+  scale: true
+  scale_factor: 12
 
 # Done!
 VEHICLE_9:
@@ -85,8 +85,8 @@ VEHICLE_9:
   # whether needs to be rotated
   rotate_angle: [0.0, 180.0, 0.0]
   # whether needs to be scaled
-  scale: false
-  scale_factor: 50
+  scale: true
+  scale_factor: 13
 
 # Done!
 VEHICLE_10:
@@ -95,8 +95,8 @@ VEHICLE_10:
   # whether needs to be rotated
   rotate_angle: false
   # whether needs to be scaled
-  scale: false
-  scale_factor: 50
+  scale: true
+  scale_factor: 1.5
 
 # Done!
 VEHICLE_11:
@@ -105,18 +105,18 @@ VEHICLE_11:
   # whether needs to be rotated
   rotate_angle: false
   # whether needs to be scaled
-  scale: false
-  scale_factor: 50
+  scale: true
+  scale_factor: 0.2
 
-# Axis Bug
+# Done!
 VEHICLE_12:
   subfolder: "89-challenger"
   name: "89"
   # whether needs to be rotated
   rotate_angle: [-90.0, 90.0, 0.0]
   # whether needs to be scaled
-  scale: false
-  scale_factor: 50
+  scale: true
+  scale_factor: 17
 
 # Done!
 VEHICLE_13:
@@ -125,8 +125,8 @@ VEHICLE_13:
   # whether needs to be rotated
   rotate_angle: [-90.0, 0.0, 0.0]
   # whether needs to be scaled
-  scale: false
-  scale_factor: 50
+  scale: true
+  scale_factor: 7
 
 # Done!
 VEHICLE_14:
@@ -136,9 +136,9 @@ VEHICLE_14:
   rotate_angle: false
   # whether needs to be scaled
   scale: false
-  scale_factor: 50
+  scale_factor: 45
 
-# Visual Bug (But the model has been aligned)
+# Done!
 VEHICLE_15:
   subfolder: "Bugatti Chiron"
   name: "model"
@@ -146,7 +146,7 @@ VEHICLE_15:
   rotate_angle: false
   # whether needs to be scaled
   scale: true
-  scale_factor: 0.5
+  scale_factor: 0.015
 
 # Done!
 VEHICLE_16:
@@ -155,15 +155,15 @@ VEHICLE_16:
   # whether needs to be rotated
   rotate_angle: [-90.0, 90.0, 0.0]
   # whether needs to be scaled
-  scale: false
-  scale_factor: 50
+  scale: true
+  scale_factor: 0.33
 
-# Axis Bug
+# Done!
 VEHICLE_17:
   subfolder: "porsche-Cayma-s"
   name: "porsche_cayman"
   # whether needs to be rotated
   rotate_angle: [-90.0, 45.0, 0.0]
   # whether needs to be scaled
-  scale: false
-  scale_factor: 50
+  scale: true
+  scale_factor: 0.6
